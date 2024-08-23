@@ -1,4 +1,4 @@
-# Tailwindcss.github.io
+
 # TailwindCSS Landing Page with Traversy Media
 
 This repository contains the source code for a responsive landing page built using TailwindCSS.
